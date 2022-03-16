@@ -1,5 +1,12 @@
-# petaculos
-Inyecta mierda en página de Phishing barato o CUALQUIER sitio que acepte entrada de cualquier tipo de datos xd
+# <h1 align="center">Petaculos 1.0
+
+---
+
+## Intro xd:
+
+### Hasta la polla de webs de estafa y de spam que te piden vainas?
+### Prueba a darles por culo. Usando mi super script llenaras su base de datos con mierda sin sentido xdd.
+### Viene con un generador de credenciales y to la perca.
 
 pa descargartelo y rularlo pones:
 
