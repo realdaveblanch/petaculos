@@ -16,6 +16,7 @@ pa descargartelo y rularlo copia y pega esta wea en tu terminal:
 sudo apt install git
 git clone https://github.com/realdaveblanch/petaculos
 cd petaculos
+pip3 install -r requirements.txt
 python3 petaculos.py
 ```
 y  pa rularlo sin mas
@@ -31,5 +32,6 @@ SI TIENES UN PC/MOVIL ETC DE LA VIRGEN CON UNA RED BRUTAL puedes usar la version
 sudo apt install git
 git clone https://github.com/realdaveblanch/petaculos
 cd petaculos
+pip3 install -r requirements.txt
 python3 petaculosMAXIMUS.py
 ```
