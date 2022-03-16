@@ -7,7 +7,9 @@ Intro xd:
 ### Hasta la polla de webs de estafa y de spam que te piden vainas?
 ### Prueba a darles por culo. Usando mi super script llenaras su base de datos con mierda sin sentido xdd.
 ### Viene con un generador de credenciales y to la perca.
-
+### Viene con una aduya por si eres retrasao y no sabes hacer nada en esta vida.
+  
+  
 pa descargartelo y rularlo copia y pega esta wea en tu terminal:
   
 ```
