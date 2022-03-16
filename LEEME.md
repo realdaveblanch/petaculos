@@ -21,3 +21,13 @@ y  pa rularlo sin mas
 ```
 python3 petaculos.py
 ```
+  
+  
+SI TIENES UN PC/MOVIL ETC DE LA VIRGEN CON UNA RED BRUTAL puedes usar la version MAXIMUS XD
+  
+```
+sudo apt install git
+git clone https://github.com/realdaveblanch/petaculos
+cd petaculos
+python3 petaculosMAXIMUS.py
+```
