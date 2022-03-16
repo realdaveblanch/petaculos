@@ -11,6 +11,7 @@
 pa descargartelo y rularlo copia y pega esta wea en tu terminal:
   
 ```
+sudo apt install git
 git clone https://github.com/realdaveblanch/petaculos
 cd petaculos
 python3 petaculos.py
