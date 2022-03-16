@@ -16,5 +16,7 @@ cd petaculos
 python3 petaculos.py
 ```
 y  pa rularlo sin mas
-
+  
+```
 python3 petaculos.py
+```
