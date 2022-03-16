@@ -2,7 +2,7 @@
 
 ---
 
-## Intro xd:
+Intro xd:
 
 ### Hasta la polla de webs de estafa y de spam que te piden vainas?
 ### Prueba a darles por culo. Usando mi super script llenaras su base de datos con mierda sin sentido xdd.
@@ -23,7 +23,7 @@ python3 petaculos.py
 ```
   
   
-SI TIENES UN PC/MOVIL ETC DE LA VIRGEN CON UNA RED BRUTAL puedes usar la version MAXIMUS XD
+SI TIENES UN PC/MOVIL ETC DE LA VIRGEN CON UNA RED BRUTAL puedes usar la version MAXIMUS XD, la vas a liar muy parda y no me hago responsable de na
   
 ```
 sudo apt install git
